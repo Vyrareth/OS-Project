@@ -1,6 +1,6 @@
 # Operating Systems (Rutgers U)
 ### Project - web crawler
-##### Team members: Toni Hunter, Peter Rodeffer
+##### Team members: Vyrareth Kuch, Praneel Suryavanshi, Praneel Suryavanshi , Cristofer Salto ,Jonathan Pastrana
 
 ___
 #### OBJECTIVE:
@@ -147,4 +147,5 @@ ___
             - While this seems to be a clickable link, it is not...*why is my logic keeping this???*
 - The primary point is that we are **REALLY** crawling now
     - Albeit with an error of `corrupted size vs. prev_size`
+
 ___
