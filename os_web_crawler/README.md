@@ -1,6 +1,6 @@
 # Operating Systems (Rutgers U)
 ### Project - web crawler
-##### Team members: Vyrareth Kuch, Praneel Suryavanshi, Praneel Suryavanshi , Cristofer Salto ,Jonathan Pastrana
+##### Team members: Vyrareth Kuch, Praneel Suryavanshi, Cristofer Salto ,Jonathan Pastrana
 
 ___
 #### OBJECTIVE:
@@ -149,3 +149,4 @@ ___
     - Albeit with an error of `corrupted size vs. prev_size`
 
 ___
+
