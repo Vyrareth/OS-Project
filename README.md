@@ -1,3 +1,2 @@
-# OS-Project
-OS Final project, web crawler
-https://github.com/Thunter204/MultiThreaded-Web-Crawler-GP.git
+MultiThreaded Webcrawler GROUP PROJECT with Peter Rodeffer :)
+Works pretty well but is mostly a single threaded crawler for now.
